@@ -1,0 +1,374 @@
+2021-08-01 09:11:41 am - 400 - The requested object 'PHP-REST-API-TemplateController' is not supported.
+Stack Trace: #0 {main}
+
+2021-08-01 09:17:48 am - 400 - The requested object 'PHP-REST-API-TemplateController' is not supported.
+Stack Trace: #0 {main}
+
+2021-08-01 09:21:13 am - 400 - The requested object 'PHP-REST-API-TemplateController' is not supported.
+Stack Trace: #0 {main}
+
+2021-08-01 09:22:04 am - 400 - The requested object 'PHP-REST-API-TemplateController' is not supported.
+Stack Trace: #0 {main}
+
+2021-08-01 09:22:28 am - 400 - The requested object 'PHP-REST-API-TemplateController' is not supported.
+Stack Trace: #0 {main}
+
+2021-08-01 09:22:31 am - 400 - The requested object 'PHP-REST-API-TemplateController' is not supported.
+Stack Trace: #0 {main}
+
+2021-08-01 09:23:25 am - 400 - The requested object 'PHP-REST-API-TemplateController' is not supported.
+Stack Trace: #0 {main}
+
+2021-08-01 09:24:13 am - 400 - The requested object 'PHP-REST-API-TemplateController' is not supported.
+Stack Trace: #0 {main}
+
+2021-08-01 09:31:52 am - 400 - The requested object 'PHP-REST-API-TemplateController' is not supported.
+Stack Trace: #0 {main}
+
+2021-08-01 09:32:52 am - 400 - The requested object 'PHP-REST-API-TemplateController' is not supported.
+Stack Trace: #0 {main}
+
+2021-08-01 09:32:54 am - 400 - The requested object 'PHP-REST-API-TemplateController' is not supported.
+Stack Trace: #0 {main}
+
+2021-08-01 09:32:54 am - 400 - The requested object 'PHP-REST-API-TemplateController' is not supported.
+Stack Trace: #0 {main}
+
+2021-08-01 09:40:31 am - 400 - The requested object 'PHP-REST-API-TemplateController' is not supported.
+Stack Trace: #0 {main}
+
+2021-08-01 09:40:32 am - 400 - The requested object 'PHP-REST-API-TemplateController' is not supported.
+Stack Trace: #0 {main}
+
+2021-08-01 09:40:44 am - 400 - The requested object 'PHP-REST-API-TemplateController' is not supported.
+Stack Trace: #0 {main}
+
+2021-08-01 05:08:01 pm - 400 - The requested object 'PHP-REST-API-TemplateController' is not supported.
+Stack Trace: #0 {main}
+
+2021-08-01 05:10:45 pm - 400 - The requested object 'PHP-REST-API-TemplateController' is not supported.
+Stack Trace: #0 {main}
+
+2021-08-01 05:12:08 pm - 400 - The requested object 'PHP-REST-API-TemplateController' is not supported.
+Stack Trace: #0 {main}
+
+2021-08-01 05:12:10 pm - 400 - The requested object 'PHP-REST-API-TemplateController' is not supported.
+Stack Trace: #0 {main}
+
+2021-08-01 05:12:25 pm - 400 - The requested object 'PHP-REST-API-TemplateController' is not supported.
+Stack Trace: #0 {main}
+
+2021-08-01 05:14:51 pm - 500 - Unable to connect to the database - SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+Stack Trace: #0 C:\xampp\htdocs\PHP-REST-API-Template\models\UsersModel.php(15): DB::get()
+#1 C:\xampp\htdocs\PHP-REST-API-Template\controllers\UsersController.php(42): UsersModel->getUsers()
+#2 C:\xampp\htdocs\PHP-REST-API-Template\index.php(55): UsersController->getAction(Object(Request))
+#3 {main}
+
+2021-08-01 07:01:29 pm - 400 - Invalid User ID.
+Stack Trace: #0 C:\xampp\htdocs\PHP-REST-API-Template\index.php(55): UsersController->getAction(Object(Request))
+#1 {main}
+
+2021-08-02 01:20:22 am - 400 - The requested object 'ApiControllerController' is not supported.
+Stack Trace: #0 {main}
+
+2021-08-02 01:30:53 am - 400 - Invalid User ID.
+Stack Trace: #0 C:\xampp\htdocs\PHP-REST-API-Template\index.php(55): UsersController->getAction(Object(Request))
+#1 {main}
+
+2021-08-02 01:32:15 am - 400 - Invalid User ID.
+Stack Trace: #0 C:\xampp\htdocs\PHP-REST-API-Template\index.php(55): UsersController->getAction(Object(Request))
+#1 {main}
+
+2021-08-02 01:37:22 am - 400 - The requested object 'UserController' is not supported.
+Stack Trace: #0 {main}
+
+2021-08-02 01:37:39 am - 400 - Invalid User ID.
+Stack Trace: #0 C:\xampp\htdocs\PHP-REST-API-Template\index.php(55): UsersController->getAction(Object(Request))
+#1 {main}
+
+2021-08-02 01:38:34 am - 400 - Invalid User ID.
+Stack Trace: #0 C:\xampp\htdocs\PHP-REST-API-Template\index.php(55): UsersController->getAction(Object(Request))
+#1 {main}
+
+2021-08-02 01:40:09 am - 400 - Invalid User ID.
+Stack Trace: #0 C:\xampp\htdocs\PHP-REST-API-Template\index.php(55): UsersController->getAction(Object(Request))
+#1 {main}
+
+2021-08-02 01:40:17 am - 400 - Invalid User ID.
+Stack Trace: #0 C:\xampp\htdocs\PHP-REST-API-Template\index.php(55): UsersController->getAction(Object(Request))
+#1 {main}
+
+2021-08-02 01:41:10 am - 400 - Invalid User ID.
+Stack Trace: #0 C:\xampp\htdocs\PHP-REST-API-Template\index.php(55): UsersController->getAction(Object(Request))
+#1 {main}
+
+2021-08-02 01:41:16 am - 400 - Invalid User ID.
+Stack Trace: #0 C:\xampp\htdocs\PHP-REST-API-Template\index.php(55): UsersController->getAction(Object(Request))
+#1 {main}
+
+2021-08-02 01:41:30 am - 400 - The requested object 'POSTController' is not supported.
+Stack Trace: #0 {main}
+
+2021-08-02 01:49:02 am - 400 - Invalid User ID.
+Stack Trace: #0 C:\xampp\htdocs\PHP-REST-API-Template\index.php(55): UsersController->getAction(Object(Request))
+#1 {main}
+
+2021-08-02 01:49:20 am - 400 - Invalid User ID.
+Stack Trace: #0 C:\xampp\htdocs\PHP-REST-API-Template\index.php(55): UsersController->getAction(Object(Request))
+#1 {main}
+
+2021-08-02 10:08:41 am - 400 - The requested object '3Controller' is not supported.
+Stack Trace: #0 {main}
+
+2021-08-02 10:08:56 am - 400 - The requested object 'ApiControllerController' is not supported.
+Stack Trace: #0 {main}
+
+2021-08-02 10:55:47 am - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 10:56:38 am - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 10:57:27 am - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 10:57:55 am - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:04:14 am - 400 - Invalid User ID.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\index.php(55): UsersController->getAction(Object(Request))
+#1 {main}
+
+2021-08-02 11:05:57 am - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:06:30 am - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:07:37 am - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:08:32 am - 400 - Unsupported request body Content-Type of 'application/x-www-form-urlencoded'.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:09:14 am - 400 - Unsupported request body Content-Type of 'application/x-www-form-urlencoded'.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:10:27 am - 400 - Unsupported request body Content-Type of 'application/x-www-form-urlencoded'.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:10:57 am - 400 - Unsupported request body Content-Type of 'application/x-www-form-urlencoded'.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:11:01 am - 400 - Unsupported request body Content-Type of 'application/x-www-form-urlencoded'.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:12:20 am - 400 - Unsupported request body Content-Type of 'application/x-www-form-urlencoded'.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:12:52 am - 400 - Unsupported request body Content-Type of 'application/x-www-form-urlencoded'.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:13:33 am - 400 - Unsupported request body Content-Type of 'application/x-www-form-urlencoded'.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:14:01 am - 400 - Unsupported request body Content-Type of 'application/x-www-form-urlencoded'.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:15:31 am - 400 - There was no Content-Type set in the request.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:17:09 am - 400 - Unsupported request body Content-Type of 'application/x-www-form-urlencoded'.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:17:31 am - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:18:08 am - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:18:18 am - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:20:09 am - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:21:50 am - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:25:55 am - 400 - Unsupported request body Content-Type of 'application/x-www-form-urlencoded'.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:26:01 am - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:30:56 am - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:31:41 am - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:32:17 am - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:32:36 am - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:33:31 am - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:33:45 am - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:41:32 am - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:41:42 am - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 11:42:34 am - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 01:27:01 pm - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 01:34:58 pm - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 01:35:16 pm - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 01:35:45 pm - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 01:37:01 pm - 400 - The request content was invalid and could not be parsed successfully as JSON.
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\library\Request.php(20): Request->parseBody()
+#1 C:\xampp\htdocs\dist-calc\index.php(28): Request->__construct()
+#2 {main}
+
+2021-08-02 05:03:49 pm - 204 - Unexpected return type, please select either meter or yard
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\controllers\DistController.php(33): DistModel->getSumDist('3', 'meter', '4', 'yard', 'mter')
+#1 C:\xampp\htdocs\dist-calc\index.php(55): DistController->getAction(Object(Request))
+#2 {main}
+
+2021-08-02 05:03:55 pm - 204 - Unexpected return type, please select either meter or yard
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\controllers\DistController.php(33): DistModel->getSumDist('3', 'meter', '4', 'yard', 'metr')
+#1 C:\xampp\htdocs\dist-calc\index.php(55): DistController->getAction(Object(Request))
+#2 {main}
+
+2021-08-02 05:04:05 pm - 204 - Unexpected return type, please select either meter or yard
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\controllers\DistController.php(33): DistModel->getSumDist('3', 'meter', '4', 'yard', 'metr')
+#1 C:\xampp\htdocs\dist-calc\index.php(55): DistController->getAction(Object(Request))
+#2 {main}
+
+2021-08-02 05:04:10 pm - 204 - Unexpected return type, please select either meter or yard
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\controllers\DistController.php(33): DistModel->getSumDist('3', 'meter', '4', 'yard', 'mete')
+#1 C:\xampp\htdocs\dist-calc\index.php(55): DistController->getAction(Object(Request))
+#2 {main}
+
+2021-08-02 05:04:24 pm - 204 - Unexpected return type, please select either meter or yard
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\controllers\DistController.php(33): DistModel->getSumDist('3', 'meter', '4', 'yard', 'd')
+#1 C:\xampp\htdocs\dist-calc\index.php(55): DistController->getAction(Object(Request))
+#2 {main}
+
+2021-08-02 05:04:29 pm - 204 - Unexpected return type, please select either meter or yard
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\controllers\DistController.php(33): DistModel->getSumDist('3', 'meter', '4', 'yard', 'ff')
+#1 C:\xampp\htdocs\dist-calc\index.php(55): DistController->getAction(Object(Request))
+#2 {main}
+
+2021-08-02 05:04:34 pm - 204 - Unexpected return type, please select either meter or yard
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\controllers\DistController.php(33): DistModel->getSumDist('3', 'meter', '4', 'yard', 'yar')
+#1 C:\xampp\htdocs\dist-calc\index.php(55): DistController->getAction(Object(Request))
+#2 {main}
+
+2021-08-02 05:09:21 pm - 204 - Unexpected return type, please select either meter or yard
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\controllers\DistController.php(33): DistModel->getSumDist('5', 'meter', '4', 'meter', 'meters')
+#1 C:\xampp\htdocs\dist-calc\index.php(55): DistController->getAction(Object(Request))
+#2 {main}
+
+2021-08-02 05:09:25 pm - 204 - Unexpected return type, please select either meter or yard
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\controllers\DistController.php(33): DistModel->getSumDist('5', 'meter', '4', 'meter', 'meters')
+#1 C:\xampp\htdocs\dist-calc\index.php(55): DistController->getAction(Object(Request))
+#2 {main}
+
+2021-08-02 05:20:06 pm - 204 - Unexpected return type, please select either meter or yard
+Stack Trace: #0 C:\xampp\htdocs\dist-calc\controllers\DistController.php(33): DistModel->getSumDist('5', 'meter', '4.67', 'yard', 'ya')
+#1 C:\xampp\htdocs\dist-calc\index.php(55): DistController->getAction(Object(Request))
+#2 {main}
+
